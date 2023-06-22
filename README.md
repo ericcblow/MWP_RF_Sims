@@ -13,3 +13,5 @@ Primary references include:
 
 
 To do: Si waveguide loss is fixed to one size, create waveguide physical perimeters as an user input
+
+Sims transferred from thesis directory on 06/22/2023
